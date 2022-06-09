@@ -2,7 +2,7 @@
 
 ### About me! 🤓
 
-🌎 **Origin**: Brazilian, living in Portugal<br />
+🌎 **Origin**: Brazilian, living in Portugal from Aug/22<br />
 💼 **Working**: on [Mercado Livre](https://github.com/mercadolibre)<br />
 🧩 **Learning**: Data Science<br />
 🧠 **Knowledges**: SQL, Python 'n Tableau<br />
