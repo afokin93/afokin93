@@ -5,7 +5,7 @@
 🌎 **Origin**: Brazilian, living in Portugal from Aug/22<br />
 💼 **Working**: on [Mercado Livre](https://github.com/mercadolibre)<br />
 🧩 **Learning**: Data Science<br />
-🧠 **Knowledges**: SQL, Python 'n Tableau<br />
+🧠 **Knowledges**: SQL, Python, Tableau, Google BigQuery, Google Data Studio, Tableau, JSON, JS, HTML, CSS<br />
 🔎 **Looking for**: new data challenges worldwide<br />
 
 ![Linkedin Badge](https://img.shields.io/badge/-Andrei_Fokin_Teixeira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrei-fokin-teixeira-9a0360a1/)
