@@ -2,9 +2,9 @@
 
 ### About me! 🤓
 
-🌎 **Origin**: Brazilian, living in Portugal from Aug/22<br />
-💼 **Working**: on [Mercado Livre](https://github.com/mercadolibre)<br />
-🧩 **Learning**: Data Science<br />
+🌎 **Origin**: Brazilian, living in Portugal since Aug/22<br />
+💼 **Working**: on [Mercado Livre](https://github.com/mercadolibre) until Aug/22<br />
+🧩 **Learning**: studying at the Faculty of Science and Technology at the University of Coimbra ([FCT-UC](https://github.com/topics/fctuc))<br />
 🧠 **Knowledges**: SQL, Python, Tableau, Google BigQuery, Google Data Studio, Tableau, JSON, JS, HTML, CSS<br />
 🔎 **Looking for**: new data challenges worldwide<br />
 
