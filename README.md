@@ -8,5 +8,5 @@
 🧠 **Knowledges**: SQL, Python, Tableau, Google BigQuery, Google Data Studio, Tableau, JSON, JS, HTML5, CSS3<br />
 🔎 **Looking for**: new data challenges worldwide<br />
 
-![Linkedin Badge](https://img.shields.io/badge/-Andrei_Fokin_Teixeira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrei-fokin-teixeira-9a0360a1/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/@AFTDEI?style=social)](https://twitter.com/AFTDEI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--Andrei_Fokin_Teixeira-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/andrei-fokin-teixeira-9a0360a1/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AFTDEI?style=social)](https://twitter.com/AFTDEI)
