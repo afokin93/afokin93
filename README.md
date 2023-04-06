@@ -1,5 +1,7 @@
 # Hello, I'm Andrei Fokin Teixeira 👋
 
+## But you can call me @andreicoder
+
 ### About me! 🤓
 
 🌎 **Origin**: Brazilian, living in Portugal since Aug/22<br />
