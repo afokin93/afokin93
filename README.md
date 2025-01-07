@@ -5,8 +5,8 @@
 ### About me! 🤓
 
 🌎 **Origin**: Brazilian, living in Portugal since Aug/22<br />
-💼 **Working**: in Mercado Livre (2017-22), BNP Paribas (2023-24) and Accenture (2024-current) <br />
-🧩 **Learning**: Data Science at the Faculty of Science and Technology - University of Coimbra ([FCT-UC](https://github.com/topics/fctuc)) (2022-2024)<br />
+💼 **Working**: in Mercado Livre (2017-22), BNP Paribas (2023-24) and Accenture (2024-current)! OPEN TO EUROPE! <br />
+🧩 **Learning**: Data Science at the Faculty of Science and Technology - University of Coimbra ([FCT-UC](https://github.com/topics/fctuc)) (2022-25)<br />
 🧠 **Knowledges**: AI, ML, LLLMs, Python, SQL, Tableau, Google BigQuery, Tableau, JSON, JS, HTML5, CSS3<br />
 🔎 **Looking for**: new data challenges worldwide<br />
 
